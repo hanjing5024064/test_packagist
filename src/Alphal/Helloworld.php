@@ -9,6 +9,6 @@ namespace Alphal;
 
 class Helloworld{
     public function echoHelloword(){
-        echo 'hello world';
+        echo 'hello world, new version';
     }
 }
