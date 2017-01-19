@@ -14,5 +14,6 @@
   },
   "autoload": {
     "psr-0": { "Pimple": "src/" }
-  }
+  },
+  "version": "0.0.1"
 }
