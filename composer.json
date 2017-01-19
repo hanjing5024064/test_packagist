@@ -2,7 +2,7 @@
   "name": "zj/test_packagist",
   "description": "test for packagist",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Jun Zhang",
