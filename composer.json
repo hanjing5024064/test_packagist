@@ -14,5 +14,6 @@
   },
   "autoload": {
     "psr-0": { "Alphal": "src/" }
-  }
+  },
+  "minimum-stability" : "dev"
 }
